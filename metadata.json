@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Financial Analyst CEO",
+  "description": "An AI-powered financial analyst CEO that leverages Gemini with Google Search grounding to provide up-to-date financial insights and data analysis.",
+  "requestFramePermissions": []
+}
